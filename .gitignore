@@ -27,4 +27,4 @@ build/
 *.egg
 
 #   ── Environment variables ───────────────────── 
-#.env
+.env
