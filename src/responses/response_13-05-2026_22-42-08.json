@@ -1,0 +1,79 @@
+{
+  "project": "ORIENT_AI",
+  "version": "1.0",
+  "timestamp": "2026-05-13T22:42:08.087356",
+  "user_metadata": {
+    "gender": "Male",
+    "gender_code": 1
+  },
+  "responses": {
+    "q1_design_illustrations": 2,
+    "q3_creative_writing": 2,
+    "q11_theatrical_sets": 2,
+    "q16_music": 2,
+    "q2_human_body": 3,
+    "q9_plants_animals": 3,
+    "q18_medical_treatment": 3,
+    "q22_lab_samples": 3,
+    "q24_patient_care": 3,
+    "q4_computer_networks": 3,
+    "q6_repair_tasks": 3,
+    "q8_industrial_quality": 3,
+    "q12_databases_accounting": 3,
+    "q14_mathematical_calculations": 3,
+    "q17_industrial_assembly": 3,
+    "q23_mobile_application": 3,
+    "q25_mathematical_proofs": 3,
+    "q5_philosophical_texts": 5,
+    "q13_historical_events": 5,
+    "q19_cultural_heritage": 5,
+    "q21_languages_literature": 5,
+    "q7_teaching": 5,
+    "q10_laws_policies": 5,
+    "q15_crisis_support": 5,
+    "q20_leadership": 5
+  },
+  "satisfaction": {
+    "current_career_satisfaction": 50
+  },
+  "derived_features": {
+    "creative_artistic_score": 2.0,
+    "health_science_score": 3.0,
+    "logical_technical_score": 3.0,
+    "humanities_theory_score": 5.0,
+    "social_institutional_score": 5.0
+  },
+  "model_ready_vector": [
+    1,
+    2,
+    2,
+    2,
+    2,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    50
+  ],
+  "q1_prediction": {
+    "field_of_study": "sciences",
+    "predicted_satisfaction_score": 56.88
+  }
+}
