@@ -2,6 +2,8 @@
 
 > **Transforming the uncertainty into a clear professional future.**
 
+🚀 **Live App:** [https://orientai-deployment.streamlit.app/](https://orientai-deployment.streamlit.app/)
+
 ---
 
 ## 🧭 The Vision
@@ -27,7 +29,10 @@ source .venv/bin/activate        # macOS / Linux
 # 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Run the app (from the project root)
+# 4. Set up API keys
+# Make sure to configure your API keys (e.g., in a .env file) to run the app correctly locally.
+
+# 5. Run the app (from the project root)
 python -m streamlit run src/main.py
 ```
 
@@ -77,17 +82,6 @@ OrientAI/
 1. **The Dialogue:** The student completes a dynamic questionnaire powered by NLP (Natural Language Processing).
 2. **The Analysis:** The AI engine processes the input, crossing it with academic requirements and professional trends.
 3. **The Result:** A comprehensive "Future Report" with personalised academic recommendations.
-
-
-
-## ☁️ Deploy to Streamlit Cloud
-
-1. Push the project to a public GitHub repository.
-2. Go to [share.streamlit.io](https://share.streamlit.io) → New app.
-3. Select repo, branch, and `src/main.py`.
-4. Click Deploy — no extra configuration needed.
-
----
 
 ## 🛠️ Tech Stack
 
